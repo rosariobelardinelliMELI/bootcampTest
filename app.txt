@@ -1,0 +1,1 @@
+Escribir algunas notas básicas, como por ejemplo que este es un archivo de prueba para manejar la consola y git.
